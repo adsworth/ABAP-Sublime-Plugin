@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "raise exception type ZXC_ERROR.\nraise  exception lo_exp.\nDATA: excluding TYPE c,\nexit LIKE c.\n\nexit = 'X'. ",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_DATA.abap",
+			"settings":
+			{
+				"buffer_size": 13482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ABAP.tmLanguage",
+			"settings":
+			{
+				"buffer_size": 14300,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"snippet:",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_DATA.abap",
+		"/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_LVL.abap",
+		"/D/Projects/kunden/WSW/Rechnungen/ZEWW_CL_BILL.abap",
+		"/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_FILTER.abap",
+		"/C/Users/adi/AppData/Roaming/Sublime Text 2/Packages/ABAP/ABAP.tmLanguage",
+		"/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_UTILS.abap",
+		"/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_ITEM.abap",
+		"/D/Documents/pw/websites.txt",
+		"/C/Users/adi/AppData/Roaming/PhonerLite/PhonerLite.ini",
+		"/D/junk/private.ics",
+		"/C/Program Files (x86)/Zimbra/Zimbra Desktop/jetty/webapps/zimbra/skins/_base/base2/skin.properties",
+		"/C/Users/adi/AppData/Local/Zimbra/Zimbra Desktop/profile/user.js",
+		"/D/Documents/signatures/ajs-business.html",
+		"/C/Users/adi/AppData/Local/Temp/_tc/com_zimbra_phone.xml",
+		"/C/Users/adi/AppData/Local/Temp/_tc/config_template.xml",
+		"/C/Users/adi/AppData/Local/Temp/_tc/phone.js",
+		"/C/Users/adi/AppData/Local/Temp/_tc/com_zimbra_phone_uk.properties",
+		"/C/Users/adi/AppData/Local/Temp/_tc/com_zimbra_phone_de.properties",
+		"/C/Users/adi/AppData/Local/Zimbra/Zimbra Desktop/data/tmp/diskcache/skinres/latest/zimbra-e2d3e73ff17166cd0fde0806a445dbd5-39.css",
+		"/D/junk/weird-a-codes.txt",
+		"/D/Projects/django-shop/manage.sh",
+		"/D/Projects/django-shop/docs/index.rst",
+		"/D/Documents/Geschäftlich/rechnungen/2013/zeiten/e-maks-2013--06.xls",
+		"/D/Projects/django-shop/README.rst",
+		"/D/junk/fanurio-3.0-alpha2/share/templates/timesheet_reports/Project Timelog.html",
+		"/D/junk/fanurio-3.0-alpha2/local/templates/timesheet_reports/timesheet.html",
+		"/D/junk/fanurio-3.0-alpha2/local/templates/timesheet_reports/timesheet",
+		"/D/Documents/proxy.pac",
+		"/C/Users/adi/AppData/Roaming/Fanurio/templates/invoices/sieker.info.ftl",
+		"/C/Users/adi/Desktop/imap.log",
+		"/D/Projects/kunden/WSW/GVB/ZEWVA_GVB_WASSERPRINTER.rdi",
+		"/D/Documents/signatures/ajs-business.txt",
+		"/D/Projects/copyrights/data/import-file-from-pramod.csv",
+		"/C/Users/adi/AppData/Roaming/Fanurio/templates/project_reports/Timesheet.ftl",
+		"/C/Users/adi/AppData/Roaming/MusicBee/MusicBeeSettings.ini",
+		"/C/Users/adi/pip/pip.ini",
+		"/C/Users/adi/AppData/Roaming/Zoiper/Contacts.xml",
+		"/C/Users/adi/AppData/Local/Temp/gmcpa_test-12610.1-2.txt",
+		"/C/Users/adi/AppData/Local/Temp/gmcpa_test-12610.1-1.txt",
+		"/D/junk/jitsi0.log.2",
+		"/D/junk/jitsi0.log.1",
+		"/D/junk/jitsi0.log.0",
+		"/D/Projects/copyrights/import-file.csv",
+		"/D/Projects/kunden/soluvia/SVK-Vertragsdaten/130129_Vertragsdaten_VVG3.csv",
+		"/C/Users/adi/.VirtualBox/VirtualBox.xml",
+		"/D/scripts/register_python.py",
+		"/C/Users/adi/AppData/Roaming/Fanurio/templates/invoices/sieker.info (copy).ftl",
+		"/C/Users/adi/mercurial.ini",
+		"/D/Projects/copyrights/.hg/hgrc",
+		"/D/Documents/ssh-keys/bitbucket.ppk",
+		"/C/python/27/Scripts/whereis.bat",
+		"/C/python/27/Scripts/mkvirtualenv.bat",
+		"/C/python/27/Scripts/python.bat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EXCEPTION|",
+			"raise",
+			"method filter",
+			"GET_ITEMS",
+			"add_to_o",
+			"exception",
+			"EXCEPTION",
+			"SUPPLIED",
+			"13px",
+			"\\(\\[.*",
+			"Anforderung Kunde",
+			"client",
+			"opbel",
+			"Hindi registration doesn't exist",
+			"<DeviceSettings>",
+			"device",
+			"mtp",
+			"sipgate",
+			"+49",
+			"Main Mri",
+			"Mai-",
+			"Mai",
+			"Dez",
+			"\"",
+			"showBusinessLogo",
+			"encoding",
+			"kunden",
+			"C:\\Users\\adi\\VirtualBox VMs",
+			"ä",
+			"ü"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Not applicable",
+			"D:\\virtualboxes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/ABAP/ABAP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Projects/kunden/WSW/Rechnungen/ZEWWCL_B_DATA.abap",
+					"settings":
+					{
+						"buffer_size": 13482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13482,
+								13482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ABAP/ABAP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6709.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ABAP.tmLanguage",
+					"settings":
+					{
+						"buffer_size": 14300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12660,
+								12660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5022.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true
+}
